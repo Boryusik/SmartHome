@@ -16,7 +16,8 @@ public:
     virtual void disconnect() = 0;
     
 protected:
-    DeviceConfig        m_configuration; 
+    DeviceConfig        m_configuration;   
+
 };
 
 }

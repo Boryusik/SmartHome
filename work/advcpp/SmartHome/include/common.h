@@ -18,4 +18,5 @@ typedef std::string Type_event;
 typedef float timestamp;
 
 //file configuration
+
 typedef std::string fileName;
